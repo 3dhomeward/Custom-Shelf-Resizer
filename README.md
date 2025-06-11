@@ -12,8 +12,7 @@ Easily resize your floating shelf STL to fit your space—without distorting plu
 ## How to Use
 
 ### Option 1: Online (Recommended)
-Try the app in your browser (no install):  
-[YOUR-STREAMLIT-CLOUD-LINK-HERE]
+Try the app in your browser (no install): https://customshelfresizer.streamlit.app/ 
 
 ### Option 2: Local (Python required)
 1. Download `stretch_shelf_app.py` from this repo.
