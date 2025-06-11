@@ -37,7 +37,7 @@ Try the app in your browser (no install): https://customshelfresizer.streamlit.a
 
 ## Licensing
 
-(Apache License 2.0 )
+Apache License 2.0 
 
 ---
 
